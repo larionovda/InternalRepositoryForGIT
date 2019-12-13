@@ -4,7 +4,6 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.printf("Line from user2");
-
-
+        System.out.println("Autorization");
     }
 }
