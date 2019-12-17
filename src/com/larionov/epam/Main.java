@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Autorization");
         System.out.println("Some new feature");
         System.out.println("Line from user1 - rebase");
+        System.out.println("SSH");
     }
 }
